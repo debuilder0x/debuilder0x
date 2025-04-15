@@ -1,4 +1,4 @@
-deGM, World!
+deGM, World! 🦣
 
 I'm deBuilder, a researcher and contributor interested in distributed networks, interop, privacy, and the L2 landscape.
 
